@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Count Conningsmark's letter to the Lady Ogle, from Flanders faithfully translated out of the original French.</title>
+            <author>Königsmarck, Carl Johan von, 1659-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47588</idno>
+            <idno type="STC">Wing K745</idno>
+            <idno type="STC">ESTC R16907</idno>
+            <idno type="EEBO-CITATION">11859293</idno>
+            <idno type="OCLC">ocm 11859293</idno>
+            <idno type="VID">49992</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49992)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 499:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Count Conningsmark's letter to the Lady Ogle, from Flanders faithfully translated out of the original French.</title>
+                  <author>Königsmarck, Carl Johan von, 1659-1686.</author>
+                  <author>Percy, Elizabeth, Lady, 1667-1722.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Königsmarck, Carl Johan von, 1659-1686.</term>
+               <term>Percy, Elizabeth, --  Lady, 1667-1722.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:49992:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 90 -->
+            <head>Count Conningſmark's LETTER To the Lady OGLE, From <hi>FLANDERS;</hi>
+            </head>
+            <head type="sub">Faithfully Tranſlated out of the Original <hi>French.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>DID I not know you are born in a moſt kind forgiving Country, and for your Birth, Beauty, and Divine Goodneſs, of the Nobleſt Extraction in it, I could not have the vanity to hope your Pardon, for were not <hi>England</hi> the moſt Merciful Kingdom in the World, and moſt obliging to Strangers, I could never hope to be forgiven ſo unhuman a Crime; but have taken a gentle Swing with my Noble Friends and Murderers. That I lov'd you is a ſufficient proof, that I could venture ſo far as to be hang'd for you, and ſo well that I wou'd Sacrifice a thouſand Rivals at the ſame rate, were I ſure to meet with the ſame kind uſage.</p>
+            <p>
+               <hi>Madam,</hi> My Principles are more Honorable, and I have a greater ſence of a Kindneſs, than to upbraid any for their Civillity, but certainly were it not more their goodneſs than my Innocence, I ſhould have gon the Honorable way of my Accomplices, and a halter put a period to my Paſſion. But hanging goes by Deſtiny not deſert; for had every man his Due, I muſt confeſs I had as juſt a claim to a Rope as the beſt of 'em. Yet <hi>(Madam)</hi> tho I am willing to do my ſelf that juſtice which the World deny'd me in Condemning my ſelf, I would likewiſe do you that Right in cleering you of thoſe Aſperſions which the world has caſt upon you on my behalf.</p>
+            <p>I have ſent a Challeng to the Lord <hi>M.</hi> and Lord <hi>C.</hi> to meet me in <hi>Flanders,</hi> where I will give them that honourable a tisfaction they demand, without a Piſtel or a Blunderbus.</p>
+            <p>I reſolve to kill them both or die by it, which I could not do with a ſafe Concience till I had asked you Pardon for my laſt offence, which at this good time I humbly beg, and will ſubmit to whatever penance you will inflict upon me, provided it be not to ſculk Six Days in Tarpolin Breeches,
+<pb facs="tcp:49992:2"/>
+               <!-- PDF PAGE 91 -->
+and pay homage to the head of a Conſtables ſtaff, which I dread more than a Legion of Pikes or Canon.</p>
+            <p>I here ſome Malicious people do accuſe you as privy to the Death of Mr. <hi>Thynne,</hi> and that ſome audacious Libel<g ref="char:EOLhyphen"/>lers have Expos'd you in their Pamphlets as a Procatartick cauſe.</p>
+            <p>I am ſorry my Reſpects for you ſhould Expoſe you to that unjuſt Cenſure, and to do you Right, I do declare before God and the World, you knew nothing of it, nor was any way ayding, conſenting or abetting in it, but utterly as Inno<g ref="char:EOLhyphen"/>cent and Ignorant of what happen'd on that Account, as he on whom it fell till the fatal blow was given.</p>
+            <p>Nor was it my leaſt deſign it ſhould ever come to your knowledge, whoſe gentle Nature I knew ſo avers from an act ſo Horrid and Barbarous, that I could never Expect your Pardon much leſs your Conſent to ſo foul a Crime.</p>
+            <p>As for thoſe Vile, baſe and Infamous Libellers, now you are in <hi>England</hi> you have Law and Juſtice oh your ſide, pro<g ref="char:EOLhyphen"/>ſecute them to the utmoſt ſeverity, or ſend them over to me, I ſhall find more <hi>
+                  <g ref="char:V">Ʋ</g>ratz</hi> and <hi>Boraskys</hi> that will not ſtick to do us Right on our Enemies, <hi>Gerne Bleu (Madam)</hi> were they ſuch as durſt appear bravely in the Feild, and give the ſatis<g ref="char:EOLhyphen"/>faction of Gentlemen, I would ſcorn to ſtoop to ſo baſe a Revenge, but he that will affirm with his Tongue what he dare not Juſtifie with his Sword, <hi>Borasky</hi> for that. And were I there, I wou'd not ſtand to ſerve them the ſame Sauce. But I dare not Venture my ſelf over again into <hi>England,</hi> for tho I have not much Reaſon to Complain of their hard Dealing by me, I ſhould be loath to truſt them a ſecond time, I find the moſt Innocent Perſon may be wrongfully accus'd, Sworn out of their dear Lives, and many an honeſter man hath thus lately falen amongſt them. But this I muſt needs ſay in ho<g ref="char:EOLhyphen"/>nour of the People and Lawes of <hi>England,</hi> that an Alien or Stranger ſhall find more favour then their own Countrymen, and a Foreign Criminal ſooner acquitted than a Native In<g ref="char:EOLhyphen"/>nocent. It was my own Caſe, but <hi>Footra</hi> the Whig, my Noble Friends, cleer'd me, and the Laws acquitted me; I only beg you may forgive me, and ſince all other hopes and future pretentions are laid aſide, let me only Intreat this one favour (which is the laſt I ſhall ever beg) that you will allow me at this diſtance to bear the Title of</p>
+            <closer>
+               <signed>Your Servant <hi>Conningſmark.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. S.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
